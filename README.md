@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I currently work at Bandsintown
+- 📫 How to reach me: hello@zdn.dev
+- ⚡ Fun fact: I've lived in Detroit, Phoenix, and San Diego!
+
 <!--
 **ZachNusbaum/ZachNusbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
