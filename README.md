@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Zach! 👋
 
 - 🔭 I currently work at Bandsintown
 - 📫 How to reach me: hello@zdn.dev
