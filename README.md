@@ -4,8 +4,7 @@
 - 📫 How to reach me: hello@zdn.dev
 - ⚡ Fun fact: I've lived in Detroit, Phoenix, and San Diego!
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/ZachNusbaum/ZachNusbaum/blob/master/images/stat.svg" alt="Activity Graph"/>
 
 <!--
 **ZachNusbaum/ZachNusbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
