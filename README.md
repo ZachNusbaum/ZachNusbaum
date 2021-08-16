@@ -4,6 +4,8 @@
 - 📫 How to reach me: hello@zdn.dev
 - ⚡ Fun fact: I've lived in Detroit, Phoenix, and San Diego!
 
+<figure><embed src="https://wakatime.com/share/@0de7ed28-532d-4da5-900a-e932e6187432/de308a12-1e5c-4ecb-9470-a91716d41a34.svg"></embed></figure>
+
 <!--
 **ZachNusbaum/ZachNusbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
