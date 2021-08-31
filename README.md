@@ -1,6 +1,6 @@
 ### Hi, I'm Zach! 👋
 
-- 🔭 I currently work at Bandsintown
+- 🔭 Senior Software Developer at Bandsintown (ToneFuse)
 - 📫 How to reach me: hello@zdn.dev
 - ⚡ Fun fact: I've lived in Detroit, Phoenix, and San Diego!
 
