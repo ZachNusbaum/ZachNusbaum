@@ -6,6 +6,7 @@
 
 <img src="https://github.com/ZachNusbaum/ZachNusbaum/blob/master/images/stat.svg" alt="Activity Graph"/>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cac9e369-7d46-420d-afcf-5a21b744dd70" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **ZachNusbaum/ZachNusbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
