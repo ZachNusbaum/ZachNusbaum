@@ -1,7 +1,7 @@
 ### Hi, I'm Zach! 👋
 
-- 🔭 Senior Software Developer at Bandsintown (ToneFuse)
-- 📫 How to reach me: hello@zdn.dev
+- 🔭 Technical Lead at Bandsintown (ToneFuse)
+<!-- - 📫 How to reach me:  -->
 - ⚡ Fun fact: I've lived in Detroit, Phoenix, and San Diego!
 
 <img src="https://github.com/ZachNusbaum/ZachNusbaum/blob/master/images/stat.svg" alt="Activity Graph"/>
