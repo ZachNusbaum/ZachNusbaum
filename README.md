@@ -5,7 +5,6 @@
 - ⚡ Fun fact: I've lived in Detroit, Phoenix, and San Diego!
 
 <img src="https://github.com/ZachNusbaum/ZachNusbaum/blob/master/images/stat.svg" alt="Activity Graph"/>
-<img src="https://api.atuin.sh/img/znusbaum.png?token=9e1a5f17c4cda5f55cae06c4cf4c00157ecd46b5" alt="shell_graph"/>
 <!--
 **ZachNusbaum/ZachNusbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
