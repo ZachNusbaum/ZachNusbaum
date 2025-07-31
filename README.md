@@ -23,7 +23,7 @@ I architect cloud infrastructure, lead cross-functional teams, and build end-to-
 
 ---
 
-### 🌟 Highlight Projects
+### 🌟 Project Highlights
 
 - **Cloud & Data Architecture:** Designed a real-time analytics platform (Apache Spark + AWS EMR + Athena) for business intelligence and data integrity.
 - **AI Solutions:** Built an anomaly detection system preventing costly financial errors pre-processing.
@@ -35,7 +35,8 @@ I architect cloud infrastructure, lead cross-functional teams, and build end-to-
 
 ### 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/zach-nusbaum/)
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/zach-nusbaum/)
+- 📧 [Email](mailto:hello@sunlitbytes.com)
 
 ---
 
