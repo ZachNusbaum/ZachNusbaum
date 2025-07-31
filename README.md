@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I architect cloud infrastructure, lead cross-functional teams, and build end-to-end software and data solutions that drive real business impact. With hands-on experience across AWS, Azure, and the full software development lifecycle, I thrive on delivering scalable, reliable, and innovative systems.
+I architect cloud infrastructure, lead cross-functional teams, and build end-to-end software and data solutions that drive real business impact. With hands-on experience across AWS, Azure, and the Microsoft ecosystem, I blend deep technical expertise with a collaborative spirit to deliver scalable, secure, and innovative products.
 
 - **Current Focus:** Cloud & Data Architecture, AI-driven analytics, and enterprise modernization.
 - **Location:** San Diego, CA – likely running by the beach or snapping photos when not coding!
@@ -33,6 +33,50 @@ I architect cloud infrastructure, lead cross-functional teams, and build end-to-
 
 ---
 
+### 💼 Work Experience
+
+#### Technology Director  
+**Pincanna** — Farmington Hills, Michigan (Remote from San Diego)  
+_July 2017 – Present_  
+- Administer Microsoft 365 for Business and Azure infrastructure.  
+- Design and build custom applications for HR, sales, and other business units.  
+- Lead technology planning and implementation across the organization.  
+- [Company link placeholder]
+
+---
+
+#### Technical Lead / Senior Software Engineer  
+**Tonefuse (Bandsintown Group, Inc)** — San Diego, California  
+_December 2019 – June 2024_  
+- Led technical initiatives and mentored engineering teams.  
+- Developed big data solutions for high-traffic music platforms.  
+- Drove brand safety innovation for Apple Music.  
+- Collaborated with cross-functional teams to deliver scalable software.  
+- [Company link placeholder] | [Project link placeholder]
+
+---
+
+#### Web Developer  
+**EuroAmerica Design** — Troy, Michigan  
+_2015 – 2017_  
+- Developed and maintained the company website.  
+- Built custom WordPress plugins to extend site functionality.  
+- Worked closely with design and marketing teams to implement new features.  
+- [Company link placeholder]
+
+---
+
+#### Researcher, Event Coordinator, and Front Desk Assistant  
+**CREATE for STEM Institute, Michigan State University** — East Lansing, Michigan  
+_August 2013 – May 2016_  
+- Built custom applications for data processing and analysis to support research projects.  
+- Contributed to projects funded by NARST for the Next Generation Science Standards (NGSS).  
+- Authored published papers and presented findings at research symposiums.  
+- Coordinated events and provided administrative support for the institute.  
+- [Institute link placeholder] | [Research publication link placeholder]
+
+---
+
 ### 🔗 Connect with Me
 
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/zach-nusbaum/)
@@ -54,5 +98,3 @@ I architect cloud infrastructure, lead cross-functional teams, and build end-to-
 ---
 
 Thanks for stopping by! Let’s connect, collaborate, or talk tech (and maybe beaches or running shoes).
-
-<!-- [<img src="https://user-images.githubusercontent.com/37716441/147396484-b7e0ae98-1335-46a3-8636-ca036995b5ed.png" height="150px" width="150px" rel="_blank" />](https://www.credly.com/badges/cac9e369-7d46-420d-afcf-5a21b744dd70/public_url) -->
