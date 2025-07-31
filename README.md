@@ -1,3 +1,7 @@
+```python
+from zach import resume
+resume.say_hello()
+```
 # 👋 Hi, I’m Zach Nusbaum
 
 **Technical Leader • Solutions Architect (AWS & Azure) • Senior Software Engineer**
